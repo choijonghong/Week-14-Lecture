@@ -40,14 +40,14 @@ Week-14-Lecture
   * 각 단어가 서로 얼마나 밀접한 관계인지 계산하여 문맥을 파악합니다.
 
 * 계산 방식: Scaled Dot-Product Attention
-*   <img width="199" height="199" alt="image" src="https://github.com/user-attachments/assets/4df60418-b30e-49e1-a0ff-3196e9bd76c6" />
+  *   <img width="199" height="199" alt="image" src="https://github.com/user-attachments/assets/4df60418-b30e-49e1-a0ff-3196e9bd76c6" />
 
   * 단어 간의 관계를 수학적으로 계산(내적)하는 구체적인 방법입니다.
   * 값이 너무 커지면 학습이 불안정해질 수 있습니다.
   * 따라서 계산 값을 적절한 크기로 나누어(Scaling) 빠르고 안정적인 학습을 돕습니다.
 
 * 다각도 분석: Multi-Head Attention
-*   <img width="213" height="221" alt="image" src="https://github.com/user-attachments/assets/b4136df2-fabb-4f3e-85fc-2c99ff251b44" />
+  *   <img width="213" height="221" alt="image" src="https://github.com/user-attachments/assets/b4136df2-fabb-4f3e-85fc-2c99ff251b44" />
 
   * 문장을 한 가지 관점으로만 보면 놓치는 정보가 생깁니다.
   * 여러 개의 Attention(헤드)을 두어 동시에 여러 관점으로 문장을 분석합니다.
