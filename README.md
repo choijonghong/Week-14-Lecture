@@ -64,7 +64,7 @@ Week-14-Lecture
 * Transformer는 RNN과 CNN 없이 Attention만으로 언어를 이해하고 생성할 수 있음을 증명했습니다.
 * 이 구조는 이후 BERT, GPT, DALL·E 등 모든 생성형 AI의 기본 설계가 되었습니다.
 
-### 감성컴퓨팅과 GAN
+### 감성컴퓨팅과 Transformer
 * 감성컴퓨팅은 사람의 감정·뉘앙스·태도 같은 비언어적 의미를 이해하는 AI를 목표로 한다.
 * 기존 RNN 기반 모델은 문맥의 미세한 변화나 긴 대화 맥락에서의 감정 흐름 파악이 제한적이었다.
 * Transformer의 Self-Attention은 문장 전체 단어를 동시에 비교하여 감정의 전환, 강조, 반전 등을 정밀하게 탐지할 수 있게 한다.
