@@ -26,6 +26,9 @@ Week-14-Lecture
 
 "순서대로 기다리지 않고 문장 전체를 한눈에 파악하며(병렬 처리), 여러 개의 눈으로 단어 사이의 미세한 관계까지 놓치지 않는(Multi-Head Attention) 혁신적인 모델입니다."
 
+<img width="428" height="604" alt="image" src="https://github.com/user-attachments/assets/c76fc4b4-bb7c-4f88-80e3-7a4b8a79dd03" />
+
+
 * 위치 정보 주입: Positional Encoding
   * Transformer는 문장을 처음부터 끝까지 순서대로 읽지 않습니다.
   * 문장 전체를 한 번에 입력받기 때문에 단어의 순서를 모릅니다.
