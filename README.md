@@ -78,5 +78,6 @@ Week-14-Lecture
 * [유튜브 영상해설 Transformer](https://www.youtube.com/watch?v=g38aoGttLhI&t=199s)
 * [유튜브 영상해설 Attention](https://www.youtube.com/watch?v=_Z3rXeJahMs&t=97s)
 * [유튜브 영상해설 LLM](https://www.youtube.com/watch?v=HnvitMTkXro&t=345s)
+* [유튜브 영상해설 내적과 쌍대성](https://www.youtube.com/watch?v=zSd7jd2HGhM&t=336s)
 
 
