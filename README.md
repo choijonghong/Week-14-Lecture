@@ -77,5 +77,6 @@ Week-14-Lecture
 * 논문1. Attention is All You Need 
 * [유튜브 영상해설 Transformer](https://www.youtube.com/watch?v=g38aoGttLhI&t=199s)
 * [유튜브 영상해설 Attention](https://www.youtube.com/watch?v=_Z3rXeJahMs&t=97s)
+* [유튜브 영상해설 LLM](https://www.youtube.com/watch?v=HnvitMTkXro&t=345s)
 
 
