@@ -75,5 +75,6 @@ Week-14-Lecture
 ### 참고 파일
 
 * 논문1. Attention is All You Need
-*[영상해설 Transformer](https://www.youtube.com/watch?v=g38aoGttLhI&t=199s)
+* 
+* [영상해설 Transformer](https://www.youtube.com/watch?v=g38aoGttLhI&t=199s)
 
